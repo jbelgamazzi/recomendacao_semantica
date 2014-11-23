@@ -1,0 +1,179 @@
+[
+  {
+    "@id": "http://learningobjects.com/0.1/ISSN-1",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@value": "Ian Sommerville"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": "SOFTWARE"
+      },
+      {
+        "@value": "SISTEMA"
+      },
+      {
+        "@value": "TAG2..."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ISSN-1"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "pt-BR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "Pearson"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Engenharia de Software"
+      }
+    ]
+  },
+  {
+    "@id": "http://learningobjects.com/0.1/ISSN-2",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@value": "Roger S. Pressman"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": "SOFTWARE"
+      },
+      {
+        "@value": "SISTEMA"
+      },
+      {
+        "@value": "TAG3..."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ISSN-2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "pt-BR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "AMGH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Engenharia de Software"
+      }
+    ]
+  },
+  {
+    "@id": "http://learningobjects.com/0.1/ISSN-3",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@value": "Wilson de Padua Paula Filho"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": "SOFTWARE"
+      },
+      {
+        "@value": "TAG4..."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ISSN-3"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "pt-BR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "LTC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Engenharia de Software"
+      }
+    ]
+  },
+  {
+    "@id": "http://learningobjects.com/0.1/ISSN-4",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@value": "Wilson de Padua Paula Filho"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": "HARDWARE"
+      },
+      {
+        "@value": "TAG5..."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ISSN-4"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "pt-BR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "Pearson"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Arquitetura e Organização de Computadores"
+      }
+    ]
+  },
+  {
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/interest": [
+      {
+        "@id": "http://learningobjects.com/0.1/ISSN-1"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "John"
+      }
+    ]
+  }
+]
