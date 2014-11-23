@@ -1,0 +1,35 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX schema: <http://schema.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT ?personName ?recommendedLearningObjectTitle ?recommendedLearningObjectAuthor
+
+WHERE
+{
+
+	?person rdf:type foaf:Person .
+	?person foaf:name ?personName .
+	
+	?person foaf:interest ?learningObject .
+	?learningObject dc:title ?learningObjectTitle .
+	?learningObject dc:creator ?learningObjectAuthor .
+	?learningObject dc:description ?learningObjectTag .
+	?learningObject rdf:type schema:CreativeWork .
+	
+	?recommendedLearningObject dc:title ?recommendedLearningObjectTitle .
+	?recommendedLearningObject dc:creator ?recommendedLearningObjectAuthor .
+	?recommendedLearningObject dc:description ?learningObjectTag .
+	?recommendedLearningObject rdf:type schema:CreativeWork .
+	
+	FILTER NOT EXISTS
+	{
+		?person foaf:interest ?recommendedLearningObject .
+	}
+
+}
+
+GROUP BY ?recommendedLearningObject
+ORDER BY COUNT( ?learningObjectTag ) 
+LIMIT 5
