@@ -1,0 +1,146 @@
+{
+  "@graph" : [ {
+    "@id" : "http://dewey.info/class/005.1068/e21/",
+    "@type" : "schema:Intangible"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/796411639#Agent/addison_wesley",
+    "@type" : "j.0:Agent",
+    "name" : "Addison-Wesley"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/796411639#Place/reading_ma",
+    "@type" : "schema:Place",
+    "name" : "Reading, MA"
+  }, {
+    "@id" : "http://id.loc.gov/authorities/subjects/sh2008101505",
+    "@type" : "schema:Intangible",
+    "name" : {
+      "@language" : "en",
+      "@value" : "Computer software--Development--Management."
+    }
+  }, {
+    "@id" : "http://id.loc.gov/vocabulary/countries/mau",
+    "@type" : "schema:Place",
+    "identifier" : "mau"
+  }, {
+    "@id" : "http://id.worldcat.org/fast/872548",
+    "@type" : "schema:Intangible",
+    "name" : [ {
+      "@language" : "en",
+      "@value" : "Computer software--Development--Management."
+    }, {
+      "@language" : "en",
+      "@value" : "Computer software--Development--Management"
+    } ]
+  }, {
+    "@id" : "http://viaf.org/viaf/4268087",
+    "@type" : "schema:Person",
+    "familyName" : "Widrig",
+    "givenName" : "Don",
+    "name" : "Widrig, Don."
+  }, {
+    "@id" : "http://viaf.org/viaf/55947399",
+    "@type" : "schema:Person",
+    "familyName" : "Leffingwell",
+    "givenName" : "Dean",
+    "name" : "Leffingwell, Dean."
+  }, {
+    "@id" : "http://worldcat.org/isbn/9780201615937",
+    "@type" : "schema:ProductModel",
+    "description" : "recycled paper",
+    "isbn" : [ "9780201615937", "0201615932" ],
+    "sameAs" : [ "urn:isbn:9780201615937", "urn:isbn:0201615932" ]
+  }, {
+    "@id" : "http://www.worldcat.org/oclc/42429315",
+    "@type" : "schema:Book",
+    "library:oclcnum" : 42429315,
+    "placeOfPublication" : [ "http://id.loc.gov/vocabulary/countries/mau", "http://experiment.worldcat.org/entity/work/data/796411639#Place/reading_ma" ],
+    "about" : [ "http://id.loc.gov/authorities/subjects/sh2008101505", "http://id.worldcat.org/fast/872548", "http://dewey.info/class/005.1068/e21/" ],
+    "contributor" : "http://viaf.org/viaf/4268087",
+    "copyrightYear" : "2000",
+    "creator" : "http://viaf.org/viaf/55947399",
+    "datePublished" : "2000",
+    "exampleOfWork" : "http://worldcat.org/entity/work/id/796411639",
+    "inLanguage" : "en",
+    "name" : {
+      "@language" : "en",
+      "@value" : "Managing software requirements : a unified approach"
+    },
+    "numberOfPages" : "491",
+    "publisher" : "http://experiment.worldcat.org/entity/work/data/796411639#Agent/addison_wesley",
+    "url" : "http://www.worldcat.org/title/-/oclc/42429315",
+    "workExample" : "http://worldcat.org/isbn/9780201615937",
+    "owl:sameAs" : {
+      "@id" : "info:oclcnum/42429315"
+    }
+  }, {
+    "@id" : "http://www.worldcat.org/title/-/oclc/42429315",
+    "@type" : [ "j.1:ContentTypeGenericResource", "j.1:InformationResource" ],
+    "inDataset" : "http://purl.oclc.org/dataset/WorldCat",
+    "about" : "http://www.worldcat.org/oclc/42429315"
+  } ],
+  "@context" : {
+    "name" : "http://schema.org/name",
+    "sameAs" : {
+      "@id" : "http://schema.org/sameAs",
+      "@type" : "@id"
+    },
+    "description" : "http://schema.org/description",
+    "isbn" : "http://schema.org/isbn",
+    "about" : {
+      "@id" : "http://schema.org/about",
+      "@type" : "@id"
+    },
+    "inDataset" : {
+      "@id" : "http://rdfs.org/ns/void#inDataset",
+      "@type" : "@id"
+    },
+    "familyName" : "http://schema.org/familyName",
+    "givenName" : "http://schema.org/givenName",
+    "workExample" : {
+      "@id" : "http://schema.org/workExample",
+      "@type" : "@id"
+    },
+    "oclcnum" : {
+      "@id" : "http://purl.org/library/oclcnum",
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer"
+    },
+    "inLanguage" : "http://schema.org/inLanguage",
+    "placeOfPublication" : {
+      "@id" : "http://purl.org/library/placeOfPublication",
+      "@type" : "@id"
+    },
+    "numberOfPages" : "http://schema.org/numberOfPages",
+    "publisher" : {
+      "@id" : "http://schema.org/publisher",
+      "@type" : "@id"
+    },
+    "copyrightYear" : "http://schema.org/copyrightYear",
+    "contributor" : {
+      "@id" : "http://schema.org/contributor",
+      "@type" : "@id"
+    },
+    "url" : {
+      "@id" : "http://schema.org/url",
+      "@type" : "@id"
+    },
+    "datePublished" : "http://schema.org/datePublished",
+    "exampleOfWork" : {
+      "@id" : "http://schema.org/exampleOfWork",
+      "@type" : "@id"
+    },
+    "creator" : {
+      "@id" : "http://schema.org/creator",
+      "@type" : "@id"
+    },
+    "identifier" : "http://purl.org/dc/terms/identifier",
+    "schema" : "http://schema.org/",
+    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "owl" : "http://www.w3.org/2002/07/owl#",
+    "j.1" : "http://www.w3.org/2006/gen/ont#",
+    "library" : "http://purl.org/library/",
+    "void" : "http://rdfs.org/ns/void#",
+    "j.0" : "http://xmlns.com/foaf/0.1/",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "dcterms" : "http://purl.org/dc/terms/"
+  }
+}
