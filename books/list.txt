@@ -1,0 +1,76 @@
+**
+Software engineering. by Sommerville, Ian
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=139469
+worldcat book:   https://www.worldcat.org/title/software-engineering/oclc/8168725&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n99018699.html
+
+**
+More about software requirements : thorny issues and practical advice. by Wiegers, Karl Eugene
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=154554
+worldcat book:   https://www.worldcat.org/title/more-about-software-requirements-thorny-issues-and-practical-advice/oclc/64399117&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n86811448.html
+
+**
+Managing software requirements : a use case approach. by Leffingwell, Dean;
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=124726
+worldcat book:   https://www.worldcat.org/title/managing-software-requirements-a-unified-approach/oclc/42429315&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n99256459.html
+
+
+Crystal clear : a human-powered methodology for small teams. by Cockburn, Alistair
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=167913
+worldcat book:   https://www.worldcat.org/title/crystal-clear-a-human-powered-methodology-for-small-teams/oclc/58914932&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n97092740.html
+
+
+Agile software development : the cooperative game. by Cockburn, Alistair
+staffs book:      http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=164308
+worldcat book:    https://www.worldcat.org/title/agile-software-development/oclc/48025685&referer=brief_results
+congress author:  http://id.loc.gov/authorities/names/n97092740.html
+
+
+Agile project management : creating innovative products. by Highsmith, James A
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=157199
+worldcat book:   https://www.worldcat.org/title/agile-project-management-creating-innovative-products/oclc/54365242&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n99255854.html
+
+
+Writing effective use cases. by Cockburn, Alistair
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=112981
+worldcat book:   https://www.worldcat.org/title/writing-effective-use-cases/oclc/44046973&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n97092740.html
+
+Software engineering : a practitioner's approach. by Pressman, Roger S
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=129591
+worldcat book:   https://www.worldcat.org/title/software-engineering-a-practitioners-approach/oclc/7999192&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n81140074.html
+
+
+Software engineering : an engineering approach .by Peters, James F
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=105226
+worldcat book:   https://www.worldcat.org/title/software-engineering-an-engineering-approach/oclc/41400704&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n83313309.html
+
+
+Software engineering : a beginner's guide. by Pressman, Roger S
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=47709
+worldcat book:   https://www.worldcat.org/title/software-engineering-a-beginners-guide/oclc/17261923&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n81140074.html
+
+
+Software engineering : a programming approach. by Bell, Doug
+staffs book:      http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=106826
+worldcat book:    https://www.worldcat.org/title/software-engineering-a-programming-approach/oclc/13792675&referer=brief_results
+congress author:  http://id.loc.gov/authorities/names/n82149931.html
+
+
+Software engineering : concepts and management. by Macro, Allen
+staffs book:     http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=73647
+worldcat book:   https://www.worldcat.org/title/software-engineering-concepts-and-management/oclc/20491467&referer=brief_results
+congress author: http://id.loc.gov/authorities/names/n85280936.html
+
+
+Software engineering : the production of quality software. by Pfleeger, Shari Lawrence
+staffs book:      http://libcat.staffs.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=48894
+worldcat book:    https://www.worldcat.org/title/software-engineering-the-production-of-quality-software/oclc/22005958&referer=brief_results
+congress author:  http://id.loc.gov/authorities/names/n84151829.html
