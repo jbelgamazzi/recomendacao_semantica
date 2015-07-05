@@ -8,6 +8,7 @@ from nltk.tree import *
 * It is class, implements the Natural Language Toolkit(NLTK) 
 * a open source library to natural language processing (NLP). 
 * In these case we use to generate keywords from a text. 
+* Implemented in Python >= 3.X
 """
 class NLTKToken(object):
     
@@ -93,9 +94,10 @@ class NLTKToken(object):
     
     def getNPLeaves(self,tree):
         """Finds NP (nounphrase) leaf nodes of a chunk tree."""
-        for subtree in tree.subtrees(filter = lambda t: t.node == 'NP'):
-            for attributes in subtree.leaves():
-                print(attributes)        
+        #for subtree in tree.subtrees(filter = lambda t: t.node == 'NP'):
+        #    for attributes in subtree.leaves():
+        #        print(attributes)        
+        pass
     
     def getTerms(self,tree):
         pass
