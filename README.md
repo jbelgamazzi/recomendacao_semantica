@@ -1,4 +1,4 @@
-#RECOMENDAÇÃO SEMANTICA:
+##RECOMENDAÇÃO SEMÂNTICA
 ######UMA ABORDAGEM A RECOMENDAÇÃO DE OBJETOS DE APRENDIZAGEM SEMANTICAMENTE ESTRUTURADOS BASEADO EM FILTRAGEM HÍBRIDA  E PROCESSAMENTO DE LINGUAGEM NATURAL
 
 * *Este é o inicio do desenvolvimento de um trabalho acadêmico com o intuído de abordar o desenvolvimento de um sistema de recomendação hibrído para ambientes semanticamentes estruturado.*
