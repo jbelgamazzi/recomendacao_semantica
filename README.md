@@ -1,7 +1,7 @@
 ##RECOMENDAÇÃO SEMÂNTICA
 ######UMA ABORDAGEM A RECOMENDAÇÃO DE OBJETOS DE APRENDIZAGEM SEMANTICAMENTE ESTRUTURADOS BASEADO EM FILTRAGEM HÍBRIDA  E PROCESSAMENTO DE LINGUAGEM NATURAL
 
->* *Este é o inicio do desenvolvimento de um trabalho acadêmico com o intuído de abordar o desenvolvimento de um sistema de recomendação hibrído para ambientes semanticamentes estruturado.*
+>* *Este é o inicio do desenvolvimento de um trabalho acadêmico com o intuído de abordar o desenvolvimento de um sistema de recomendação hibrido para ambientes semanticamente estruturados.*
 
 * Para possibilitar a representação semântica do ambiente, será desenvolvido uma **ontologia** no formato **JSON-LD** seguindo os vocabulários semânticos: (i) **DublinCore:** para representação dos objetos de aprendizagem e (ii) **FOAF:** para presentação de perfis de usuários e seus relacionamentos e interesses.
 
@@ -20,8 +20,7 @@
   Sistemas de recomendação auxiliam no aumento da capacidade e eficácia em processos decisórios redirecionando objetos de aprendizagem à possíveis interessados determinados através de analise comportamentais de indivíduos e objetos. Tais sistemas são classificados em três categorias [2], são elas: (i) **Filtragem baseada em conteúdo:** analisa o conteúdo dos objetos que interessaram o individuo no passado para realizar a recomendação de novos objetos [2]; (ii) **Filtragem colaborativa:** busca predizer a avaliação de um determinado individuo para um objeto baseado nas avaliações dos outros indivíduos para o mesmo objeto [3, 4], através da inteligencia coletiva do grupo [5, 6]; e, (iii) **Filtragem hibrida:** combina as técnicas anteriores com o objetivo de superar as limitações individuais e potencializar seus benefícios.
   
   Entretanto, grande parte dos objetos de aprendizagem atualmente disponíveis foram projetados para o consumo humano o que dificulta o processamento automatizado por mecanismos inteligentes devido sua constituição heterogênea e não estruturada, impedindo ou dificultando interpretações contextuais através de técnicas de filtragem baseada em conteúdo muitas vezes combinadas à **processamento de linguagem natural (PLN)** para busca e construção de possíveis predições contextuais podendo aumentar gradativamente a complexidade e tempo de resposta de suas consultas.
-  
-  ######**[...]**
+**[...]**
   
   
 #####REFERÊNCIAS
