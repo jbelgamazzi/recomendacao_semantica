@@ -1,0 +1,95 @@
+{
+    "@context":
+    {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "schema": "http://schema.org/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "@base": "http://learningobjects.com/0.1/"
+    },
+    "@graph":
+    [
+        { // decreve o objeto
+            "@id": "032112247X",
+            "@type": "schema:CreativeWork",
+            "dc:identifier": "032112247X",
+            "dc:title": "Managing software requirements : a use case approach",
+            "dc:creator": "http://id.loc.gov/authorities/names/n99256459",
+            "dc:relation": "Addison-Wesley object technology series.",
+            "dc:language": "en",
+            "dc:subject": "",
+            "dc:available": "",
+            "dc:date": "",
+            "dc:format": "",
+            "dc:license": "",
+            "dc:publisher": "http://libcat.staffs.ac.uk/cgi-bin/koha/opac-search.pl?q=pb:Addison-Wesley",
+            "dc:contributor": "",
+            "dc:description": "",
+            "dc:subject": [
+                // sera uma lista de tags informadas pelo usuário e geradas automaticamente 
+            ],
+        },
+        { // descreve grupo de individuos
+            "foaf:name" : "AULA_DE_ENGENHARIA_SOFTWARE",
+            "foaf:member" : [
+                //lista de membros do grupo
+                {
+                    "@id": "123"
+                }
+            ],
+            "foaf:Organization": [
+                // lista de organizacoes pertencentes ao grupo
+                {
+                    "@id": "666"
+                }
+            ],
+            "@type" : "foaf:Group",
+        },
+        { // descreve o individuo
+            "@id" : "123",
+            "foaf:title": "Dr.",
+            "foaf:name": "John Silva",
+            "foaf:firstName": "John",
+            "foaf:familyName": "Silva",
+            "foaf:nick": "JSilva",
+            "foaf:birthday": "2015-08-23",
+            "foaf:Image": "./img_perfil_jhon_silva.jpeg",
+            "foaf:Organization": [
+                // lista de publicacoes pertencentes ao individuo
+                {
+                    "@id": "0321313798"
+                }
+            ],
+            "foaf:publications": [
+                // lista de organizacoes pertencentes ao individuo
+                {
+                    "@id": "666"
+                }
+            ],
+            "foaf:based_near": "-25,54685/-25,54685",
+            "foaf:depiction": "Um cara muito legal",
+            "foaf:knows": [
+                // lista de individuos conhecidos
+                {
+                    "@id": "0000"
+                }
+            ],
+            "foaf:interest":
+            [ // descreve os interesses do individuo
+                {
+                    "@id": "0321313798"
+                }
+            ],
+            "@type": "foaf:Person"
+        },
+        { // descreve a organizacao pertencente ao individuo
+            "@id" : "666",
+            "foaf:name": "Faculdade Ingá",
+            "foaf:Image": "./img_perfil_jhon_silva.jpeg",
+            "foaf:based_near": "-25,54685/-25,54685",
+            "foaf:depiction": "Academia do saber",
+            "@type": "foaf:Organization"
+        }
+    ]
+}
